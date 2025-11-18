@@ -1,0 +1,8 @@
+              precision    recall  f1-score   support
+
+       Tinea       0.98      0.94      0.96       500
+    Melanoma       0.94      0.98      0.96       500
+
+    accuracy                           0.96      1000
+   macro avg       0.96      0.96      0.96      1000
+weighted avg       0.96      0.96      0.96      1000
