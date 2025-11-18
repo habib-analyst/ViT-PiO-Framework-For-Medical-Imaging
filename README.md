@@ -132,6 +132,22 @@ Trained models are saved as HDF5 files:
 Classification reports are saved as:
 - `*_classification_report.txt`
 
+## ✅ Publication
+
+This work has been published in Computational Biology and Chemistry (2025):
+
+Habib Ur Rehan et al., "A hybrid Vision Transformer + Perceiver IO framework for multi-disease medical imaging classification", Computational Biology and Chemistry, 2025. DOI: https://doi.org/10.1016/j.compbiolchem.2025.108586
+
+The repository contains the code and experiments corresponding to the paper.
+
+## 🌟 Highlights
+
+- Proposes a hybrid AI using Vision Transformers and Perceiver IO for multi-disease medical image classification.
+- Achieves high accuracy and low false positives across neurology, dermatology, and pulmonology domains.
+- Reaches up to 1.00 recall for six diseases across benchmark datasets in neurology, skin, and lung conditions.
+- Integrates a real-time chatbot for diagnostic image uploads with automated interpretation and confidence scores.
+- First use of ViT + Perceiver IO for these diseases, surpassing CNN models in accuracy and computational efficiency.
+
 ## 🎯 Key Features
 
 ✅ Portable code using relative paths  
