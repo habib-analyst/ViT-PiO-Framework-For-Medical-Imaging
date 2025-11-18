@@ -76,3 +76,6 @@ Thumbs.db
 
 # Data directories (optional - customize as needed)
 # */Downloads/
+# Files to exclude from repository
+GITHUB_UPLOAD_GUIDE.md
+replace_habib.py
