@@ -2,6 +2,12 @@
 
 Comprehensive deep learning models for medical image classification using Vision Transformer (ViT) and Perceiver IO architecture.
 
+## ✨ Author Information
+
+**Author:** Habib Ur Rehman  
+**Email:** habib.gcuf.edu@gmail.com  
+**GitHub:** https://github.com/habib-analyst
+
 ## ✅ Publication
 
 This work has been published in Computational Biology and Chemistry (2025):
