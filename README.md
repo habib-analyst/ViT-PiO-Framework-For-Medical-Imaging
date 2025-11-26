@@ -2,6 +2,14 @@
 
 Comprehensive deep learning models for medical image classification using Vision Transformer (ViT) and Perceiver IO architecture.
 
+## ✅ Publication
+
+This work has been published in Computational Biology and Chemistry (2025):
+
+Habib Ur Rehan et al., "A hybrid Vision Transformer + Perceiver IO framework for multi-disease medical imaging classification", Computational Biology and Chemistry, 2025. DOI: https://doi.org/10.1016/j.compbiolchem.2025.108586
+
+The repository contains the code and experiments corresponding to the paper.
+
 ## 📋 Project Overview
 
 This project contains three AI models trained to detect and classify medical conditions from image data:
@@ -131,14 +139,6 @@ Trained models are saved as HDF5 files:
 
 Classification reports are saved as:
 - `*_classification_report.txt`
-
-## ✅ Publication
-
-This work has been published in Computational Biology and Chemistry (2025):
-
-Habib Ur Rehan et al., "A hybrid Vision Transformer + Perceiver IO framework for multi-disease medical imaging classification", Computational Biology and Chemistry, 2025. DOI: https://doi.org/10.1016/j.compbiolchem.2025.108586
-
-The repository contains the code and experiments corresponding to the paper.
 
 ## 🌟 Highlights
 
