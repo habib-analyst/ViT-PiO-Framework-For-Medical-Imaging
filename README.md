@@ -4,9 +4,7 @@ Comprehensive deep learning models for medical image classification using Vision
 
 ## ✨ Author Information
 
-**Author:** Habib Ur Rehman  
-**Email:** habib.gcuf.edu@gmail.com  
-**GitHub:** https://github.com/habib-analyst
+**Author:** Ayesha Khaliq, Fahad Ahmad, Habib Ur Rehman, Saad Awadh Alanazi, Hamza Haleem, Kashaf Junaid, Elisavet Andrikopoulou
 
 ## ✅ Publication
 
