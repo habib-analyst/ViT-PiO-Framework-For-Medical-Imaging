@@ -1,4 +1,4 @@
-# Medical AI Models - Final Year Project
+# Medical AI Models - ViT + PiO
 
 Comprehensive deep learning models for medical image classification using Vision Transformer (ViT) and Perceiver IO architecture.
 
@@ -34,7 +34,7 @@ All models use a hybrid approach combining:
 ## 📁 Project Structure
 
 ```
-FYP-Medical-Models/
+Research-Project-Medical-Models/
 ├── Brain Model/
 │   ├── Brain Model/
 │   │   ├── neuro_code.py          # Brain model training script
@@ -196,6 +196,3 @@ Preprocessed data is stored as NumPy arrays:
 This project is for educational and research purposes.
 
 ---
-
-**Created as Final Year Project (FYP)**  
-*Medical AI Classification using Vision Transformers*
